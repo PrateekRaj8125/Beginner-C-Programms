@@ -1,3 +1,4 @@
+//print sum of digits of an enterd 6-digit number
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+//Enter a no. and find the entered no. is even or odd using ternary operator
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+//enter a character in lower case and convert it in upper case
 #include<stdio.h>
 int main()
 {

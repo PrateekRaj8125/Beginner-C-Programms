@@ -1,3 +1,4 @@
+//convert entered time in seconds to hh/mm/ss format
 #include<stdio.h>
 int main()
 {

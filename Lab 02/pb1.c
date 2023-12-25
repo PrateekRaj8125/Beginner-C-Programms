@@ -1,3 +1,4 @@
+//print sum of digits of an entered 3-digit number
 #include<stdio.h>
 int main()
 {

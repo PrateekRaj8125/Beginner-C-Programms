@@ -1,3 +1,4 @@
+//Enter coefficients of x and value of x of a quadratic equation to find its solution
 #include<stdio.h>
 #include<math.h>
 int main()

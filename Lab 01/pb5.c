@@ -1,3 +1,4 @@
+//find simple interest using Principal amount, rate of interest and time taken
 #include<stdio.h>
 int main()
 {

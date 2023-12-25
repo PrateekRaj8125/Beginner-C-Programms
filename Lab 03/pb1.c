@@ -1,3 +1,4 @@
+//Find smallest no. using two entered numbers using ternary operator
 #include<stdio.h>
 int main()
 {

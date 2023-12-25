@@ -1,3 +1,4 @@
+//convert temprature from degree celius to degree farenheit
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+//Enter a year and find either it is leap year or not
 #include<stdio.h>
 int main()
 {

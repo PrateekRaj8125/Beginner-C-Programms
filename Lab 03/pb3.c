@@ -1,3 +1,4 @@
+//Enter 3 numbers and find the largest no. among them using ternary operator
 #include<stdio.h>
 int main()
 {

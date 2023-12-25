@@ -1,3 +1,4 @@
+//convert distance entered in km and m
 #include<stdio.h>
 int main()
 {
