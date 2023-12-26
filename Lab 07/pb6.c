@@ -1,3 +1,4 @@
+//print either an entered no. is strong or not
 #include<stdio.h>
 int main()
 {

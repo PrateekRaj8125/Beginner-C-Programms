@@ -1,3 +1,4 @@
+//print either a entered is perfect or not
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+//print matrix format
 #include<stdio.h>
 int main()
 {

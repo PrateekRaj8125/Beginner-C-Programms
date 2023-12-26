@@ -1,3 +1,4 @@
+//print triangular format
 #include<stdio.h>
 int main()
 {

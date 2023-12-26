@@ -1,3 +1,4 @@
+//Print Fibonacy series upto i terms
 #include<stdio.h>
 int main()
 {

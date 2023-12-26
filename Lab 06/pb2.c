@@ -1,3 +1,4 @@
+//print sum and average of entered nos. under 10
 #include<stdio.h>
 int main()
 {

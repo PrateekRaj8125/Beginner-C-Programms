@@ -1,3 +1,4 @@
+//Enter a no. and print its reverse
 #include<stdio.h>
 int main()
 {

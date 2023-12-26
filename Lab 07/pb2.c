@@ -1,3 +1,4 @@
+//Print H.C.F. of two entered numbers
 #include<stdio.h>
 int main()
 {

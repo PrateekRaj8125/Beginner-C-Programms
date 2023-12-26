@@ -1,3 +1,4 @@
+//print triangular string matrix
 #include<stdio.h>
 int main()
 {

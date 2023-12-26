@@ -1,3 +1,4 @@
+//Print a no. in format
 #include<stdio.h>
 int main()
 {

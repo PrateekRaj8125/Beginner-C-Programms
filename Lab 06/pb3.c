@@ -1,3 +1,4 @@
+//Enter a no. and print sum of digits
 #include<stdio.h>
 int main()
 {

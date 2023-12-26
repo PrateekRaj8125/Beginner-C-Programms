@@ -1,3 +1,4 @@
+//Enter a decimal no. and print its binary equivalent
 #include<stdio.h>
 int main()
 {

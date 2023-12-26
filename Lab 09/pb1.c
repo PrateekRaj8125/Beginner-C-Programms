@@ -1,3 +1,4 @@
+//Enter a 3-digit no. and print its reverse
 #include<stdio.h>
 int main()
 {
