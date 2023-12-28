@@ -1,4 +1,4 @@
-//calculate sum of digits
+//calculate sum of digits using function
 #include<stdio.h>
 int dsum(int);
 void main()

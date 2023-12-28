@@ -1,3 +1,4 @@
+//Enter integers in an aaray and find its sum and calculate and display the average
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+//Enter a string and print last character of each word
 #include<stdio.h>
 #include<string.h>
 void main()

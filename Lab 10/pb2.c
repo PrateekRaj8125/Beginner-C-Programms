@@ -1,3 +1,4 @@
+//Enter values in an array and display its sum
 #include<stdio.h>
 int main()
 {

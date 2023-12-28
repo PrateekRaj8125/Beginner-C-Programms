@@ -1,4 +1,4 @@
-//swapping two values without return
+//swapping two values using function without return
 #include<stdio.h>
 void swap(int,int);
 void swap(int a1,int b1)

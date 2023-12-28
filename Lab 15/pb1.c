@@ -1,3 +1,4 @@
+//Enter value of n and r and find the combination using formula of nCr using function
 #include<stdio.h>
 int fact(int);
 void main()

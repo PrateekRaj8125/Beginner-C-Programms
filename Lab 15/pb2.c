@@ -1,4 +1,4 @@
-//calculate large between two nos.
+//calculate large between two nos.using function
 #include<stdio.h>
 int max(int,int);
 void main()

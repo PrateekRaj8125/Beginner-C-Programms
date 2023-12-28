@@ -1,4 +1,4 @@
-//Calculating factorial with return
+//Calculating factorial using function with return
 #include<stdio.h>
 int fact(int);
 void main()

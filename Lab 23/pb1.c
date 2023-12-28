@@ -1,3 +1,4 @@
+//Enter your roll no. and find a=last digit of roll+2 and b=last digit of roll+35, and find all numbers between and b are either divisible by 3or 9
 #include<stdio.h>
 void f1(int);
 void main()

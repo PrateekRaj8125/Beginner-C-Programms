@@ -1,3 +1,4 @@
+//Enter n values in an aaray and print only odd values
 #include<stdio.h>
 int main()
 {

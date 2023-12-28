@@ -1,4 +1,4 @@
-
+//Enter n values in an array and print second largest value
 #include<stdio.h>
 int main()
 {

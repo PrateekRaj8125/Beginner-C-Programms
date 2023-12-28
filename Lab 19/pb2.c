@@ -1,3 +1,4 @@
+//print product of two numbers using pointers
 #include <stdio.h>
 int multiply(int *n1, int *n2) 
 {

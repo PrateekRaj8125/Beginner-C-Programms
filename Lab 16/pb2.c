@@ -1,4 +1,4 @@
-//  WAP to search an element in an array
+//  WAP to search an element in an array using function
 #include<stdio.h>
 void search(int[],int,int);
 void main()
@@ -26,5 +26,5 @@ void search(int a[],int n,int s)
         }
     }
     if (flag!=1)
-    printf("%d is not present in arra\n",s);
+    printf("%d is not present in array\n",s);
 }

@@ -1,4 +1,4 @@
-
+//Enter n values in an array and print od values and even values
 #include<stdio.h>
 int main()
 {

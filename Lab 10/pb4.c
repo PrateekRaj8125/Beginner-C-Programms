@@ -1,3 +1,4 @@
+//Enter values in an array and print only even values
 #include<stdio.h>
 int main()
 {

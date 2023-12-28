@@ -1,4 +1,4 @@
-//printing fibonacy series
+//printing fibonacy series using function
 #include<stdio.h>
 void fibonacy(int);
 void main()

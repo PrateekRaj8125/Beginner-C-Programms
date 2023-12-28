@@ -1,4 +1,4 @@
-//printing the series
+//printing the series using function
 #include<stdio.h>
 long fact(int);
 long power(int,int);
