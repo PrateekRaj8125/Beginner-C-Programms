@@ -1,4 +1,4 @@
-//print result of a base with an exponent
+//print result of a base with an exponent of users choice
 #include<stdio.h>
 int main()
 {
