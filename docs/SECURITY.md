@@ -24,4 +24,3 @@ If you discover a vulnerability, security flaw, or bug in the **Beginner-C-Progr
 ---
 
 ✅ By responsibly reporting vulnerabilities, you help us maintain a safe and reliable learning resource for everyone.
-
