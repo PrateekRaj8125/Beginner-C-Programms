@@ -1,0 +1,26 @@
+// Write a C program to read n integers into an array and print both even and odd values separately.
+#include<stdio.h>
+int main()
+{
+int n,ctr;
+printf("Enter no. of values to be entered:");
+scanf("%d",&n);
+int a[n];
+printf("Enter %d Values:\n",n);
+for(ctr=0;ctr<n;ctr++)
+scanf("%d",&a[ctr]);
+printf("Even Values:");
+for(ctr=0;ctr<n;ctr++)
+{
+if(a[ctr]%2==0)
+printf("%d,",a[ctr]);
+}
+printf("\nOdd values:");
+for(ctr=0;ctr<n;ctr++)
+{
+if(a[ctr]%2==1)
+printf("%d,",a[ctr]);
+}
+printf("\n");
+return 0;
+}
