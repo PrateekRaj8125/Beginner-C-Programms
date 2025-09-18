@@ -4,8 +4,8 @@ Continues with slightly more involved programs using loops, conditionals, and us
 
 | S. No. | Questions | Solutions |
 |---|---|---|
-| 1. | Write a C program to find and print the sum of digits of a 3-digit number entered by the user. | [Solution]() |
-| 2. | Write a C program to find and print the reverse of a 3-digit number entered by the user. | [Solution]() |
-| 3. | Write a C program to convert entered time in seconds to hours, minutes, and seconds (hh:mm:ss format). | [Solution]() |
-| 4. | Write a C program to convert distance entered in meters into kilometers and meters. | [Solution]() |
-| 5. | Write a C program to find and print the sum of digits of a 6-digit number entered by the user. | [Solution]() |
+| 1. | Write a C program to find and print the sum of digits of a 3-digit number entered by the user. | [Solution](https://github.com/PrateekRaj8125/Beginner-C-Programms/blob/main/Codes/2.%20Introductory%20C%20Programs%20-%20Part%202/pb1.c) |
+| 2. | Write a C program to find and print the reverse of a 3-digit number entered by the user. | [Solution](https://github.com/PrateekRaj8125/Beginner-C-Programms/blob/main/Codes/2.%20Introductory%20C%20Programs%20-%20Part%202/pb2.c) |
+| 3. | Write a C program to convert entered time in seconds to hours, minutes, and seconds (hh:mm:ss format). | [Solution](https://github.com/PrateekRaj8125/Beginner-C-Programms/blob/main/Codes/2.%20Introductory%20C%20Programs%20-%20Part%202/pb3.c) |
+| 4. | Write a C program to convert distance entered in meters into kilometers and meters. | [Solution](https://github.com/PrateekRaj8125/Beginner-C-Programms/blob/main/Codes/2.%20Introductory%20C%20Programs%20-%20Part%202/pb4.c) |
+| 5. | Write a C program to find and print the sum of digits of a 6-digit number entered by the user. | [Solution](https://github.com/PrateekRaj8125/Beginner-C-Programms/blob/main/Codes/2.%20Introductory%20C%20Programs%20-%20Part%202/pb5.c) |

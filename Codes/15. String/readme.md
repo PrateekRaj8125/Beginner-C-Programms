@@ -4,5 +4,5 @@ Basic string operations such as reading, printing, and simple manipulations usin
 
 | S. No. | Questions | Solutions |
 |---|---|---|
-| 1. | Write a C program to read a string from the user and display it. | [Solution]() |
-| 2. | Write a C program to calculate and print the length of a string entered by the user. | [Solution]() |
+| 1. | Write a C program to read a string from the user and display it. | [Solution](https://github.com/PrateekRaj8125/Beginner-C-Programms/blob/main/Codes/15.%20String/pb1.c) |
+| 2. | Write a C program to calculate and print the length of a string entered by the user. | [Solution](https://github.com/PrateekRaj8125/Beginner-C-Programms/blob/main/Codes/15.%20String/pb2.c) |
