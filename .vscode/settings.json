@@ -59,6 +59,7 @@
   "files.associations": {
     "*.c": "c",
     "*.java": "java",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "stdlib.h": "c"
   }
 }
